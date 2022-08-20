@@ -106,7 +106,7 @@
         padding: 16px;
     }
     .hero__section{
-        min-height: 80px;
+        min-height: 80vh;
     }
     .hero__section_input_container{
         flex-direction: column;
